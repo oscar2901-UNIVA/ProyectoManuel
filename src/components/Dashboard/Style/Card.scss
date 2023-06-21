@@ -1,0 +1,23 @@
+.main-card-dashboard {
+  display: grid;
+  width: 100%;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 20px 10px;
+  .card-dashboard {
+    background-color: rgb(32, 187, 4);
+    border-radius: 15px;
+    color: white;
+    padding: 25px;
+    text-align: center;
+    .title-card{
+        font-size: 15px;
+        margin: 0;
+        font-weight: bold;
+    }
+    .data-card{
+        font-size: 30px;
+        margin: 0;
+        font-weight: bold;
+    }
+  }
+}

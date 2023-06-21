@@ -1,0 +1,16 @@
+.button-agregar {
+    background-color: #1976d2;
+    width: 10rem;
+    padding: 10rem;
+    border-radius: 15px;
+    margin-top: 2rem;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .button-agregar:hover {
+    background-image: linear-gradient(to bottom, #00c6ff, #0072ff);
+    color: #fff;
+  }

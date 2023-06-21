@@ -1,0 +1,9 @@
+.container-stepper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  .stepper-container {
+    width: 60%;
+    padding: 10px;
+  }
+}
